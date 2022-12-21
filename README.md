@@ -1,6 +1,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![MasterHead](https://cdn.discordapp.com/banners/658616710739263528/b361c0fddbf077709789f9f21bee1163?size=4096)](https://rishavchanda.io)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
