@@ -1,6 +1,6 @@
 #### Astros3x here.💫
 ### Hi there,  aka 2Loop
-![githhub](https://user-images.githubusercontent.com/87500882/208988657-cb229a54-f969-41b2-b66e-87d3d65b3dc9.jpg)
+![github](https://user-images.githubusercontent.com/87500882/209153754-620b45c0-147e-4886-9f12-4bb2fc002c47.jpg)
 <h3 align="left">Info:</h3>
 <p>I made this project just for fun and to grow my community. Some of my project need a pw, you can get it 
 from my discord server. Code sharing, toolz, leaks and more. Social media services seller.</p>
