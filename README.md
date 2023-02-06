@@ -1,6 +1,5 @@
 #### Astros3x here.💫
 ### Hi there,  aka 2Loop
-![github](https://user-images.githubusercontent.com/87500882/209153754-620b45c0-147e-4886-9f12-4bb2fc002c47.jpg)
 <h3 align="left">Info:</h3>
 <p>I made this project just for fun. Code sharing, toolz, leaks and more. Social media services seller check ds[2Loop#6969].</p>
 <h3 align="left">Languages and Tools:</h3>
