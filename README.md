@@ -2,7 +2,6 @@
   
 # Astros3x here.💫
 ## Hi there,  aka 2Loop
-
  <img src="https://discord.c99.nl/widget/theme-2/658616710739263528.png"></img>
 
 </div>
