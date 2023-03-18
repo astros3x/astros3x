@@ -15,4 +15,4 @@ I do these projects just for fun. Code sharing, toolz, leaks and more. SMM servi
 
 ## Platforms
 
-<p align="left"><a href="https://github.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/></a><a href="https://www.instagram.com/astros3x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="40" height="40"/></a></p>
+<p align="left"><a href="https://github.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/></a><a href="https://www.instagram.com/snoopdogg/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="40" height="40"/></a></p>
