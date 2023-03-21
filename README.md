@@ -7,7 +7,8 @@
 </div>
 
 ## About
-I do these projects just for fun. Code sharing, toolz, leaks and more. SMM services/cheats/modz/methods/ecc. check ds [2Loop#6969].
+I do these projects just for fun. Code sharing, toolz, leaks and more. 
+SMM services/cheats/modz/methods/ecc. check ds [2Loop#6969].
 
 ## Languages and Tools
 
