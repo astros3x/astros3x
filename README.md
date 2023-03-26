@@ -16,6 +16,7 @@ SMM services/cheats/modz/methods/ecc. check ds 2Loop#6969.
 
 ## Current projects
 * [Astri](https://github.com/astros3x/Astri) - A usefull program with info sharing and tools.
+* [NitroGen](https://github.com/astros3x/Nitro-generator) - Classic NitroGen, i want to add more features as proxy, embeed ecc...
 
 ## Platforms
 
