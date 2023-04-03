@@ -16,6 +16,7 @@ SMM services/cheats/modz/methods/ecc. check ds 2Loop#6969.
 
 ## Current projects
 * [Astri](https://github.com/astros3x/Astri) - A usefull program with info sharing and tools.
+* [File Malware](https://github.com/astros3x/File-malware) - File spammer malware.
 * [NitroGen](https://github.com/astros3x/Nitro-generator) - Classic NitroGen.
 
 ## Platforms
