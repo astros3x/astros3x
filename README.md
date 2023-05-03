@@ -17,8 +17,8 @@ SMM services/cheats/modz/methods/ecc. check ds 2Loop#6969.
 
 ## Current projects
 * [Astri](https://github.com/astros3x/Astri) - A usefull program with info sharing and tools.
-* [File Malware](https://github.com/astros3x/File-malware) - File spammer malware.
-* [NitroGen](https://github.com/astros3x/Nitro-generator) - Classic NitroGen.
+* [AstriVIP@AIO](https://github.com/astros3x/File-malware) - All In One tool x astri@vip users only.
+* [CC-Tools](https://github.com/astros3x/cc-tools) - CCs utilities tools.
 ## Platforms
 
 <p align="left"><a href="https://github.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/></a><a href="https://www.instagram.com/astros3x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="40" height="40"/></a><a href="https://discord.gg/XnRjFmgPYz" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" width="40" height="40"/></a><a href="https://twitter.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" width="40" height="40"/></a></p>
