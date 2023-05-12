@@ -17,7 +17,7 @@ SMM services/cheats/modz/methods/ecc. check ds 2Loop#6969.
 
 ## Current projects
 * [Astri](https://github.com/astros3x/Astri) - A usefull program with info sharing and tools.
-* [AstriVIP@AIO](https://github.com/astros3x/File-malware) - All In One tool x astri@vip users only.
+* [AstriVIP@AIO](https://github.com/astros3x/astrivip-aio) - All In One tool x astri@vip users only.
 * [CC-Tools](https://github.com/astros3x/cc-tools) - CCs utilities tools.
 ## Platforms
 
