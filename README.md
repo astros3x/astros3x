@@ -18,7 +18,7 @@ SMM services/cheats/modz/methods/ecc. check ds 2Loop#6969. <img src="https://kom
 ## Current projects
 * [Astri](https://github.com/astros3x/Astri) - A usefull program with info sharing and tools.
 * [AstriVIP@AIO](https://github.com/astros3x/astrivip-aio) - All In One tool x astri@vip users only.
-* [Nuker](https://github.com/astros3x/astrimini-nuker) - Will be 🔥.
+* [Ddosser](https://github.com/CaptainBeluga/astri-ddosser)
 ## Platforms
 
 <p align="left"><a href="https://github.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/></a><a href="https://www.instagram.com/astros3x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="40" height="40"/></a><a href="https://discord.gg/XnRjFmgPYz" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" width="40" height="40"/></a><a href="https://twitter.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" width="40" height="40"/></a></p>
