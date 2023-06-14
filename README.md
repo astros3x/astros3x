@@ -1,5 +1,7 @@
 <div align="center">
+
 # Astros3x here.💫
+
 ## batch lover
  <img src="https://discord.c99.nl/widget/theme-2/658616710739263528.png"></img>
 
