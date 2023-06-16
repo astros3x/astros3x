@@ -3,11 +3,9 @@
 # Astros3x here.💫
 
 ## batch lover
- <img src="https://discord.c99.nl/widget/theme-2/658616710739263528.png"></img>
+ <img src="https://discord.c99.nl/widget/theme-2/825824076693372938.png"></img>
 
 </div>
-
-New ds @6ryō > testestestest
 
 ## About
 I do these projects just for fun. Code sharing, toolz, leaks and more. <br> 
