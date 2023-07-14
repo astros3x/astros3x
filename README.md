@@ -14,7 +14,7 @@ Designing/SMM services/Cheats/Modz/Methods/ecc. <img src="https://komarev.com/gh
 
 ## Languages and Tools
 
-<p align="left"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="norefferrer"><img src="https://wallpapercave.com/wp/wp4521293.png" alt="c" width="40" height="40"/></a></p>
+<p align="left"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/astros3x/astros3x/assets/87500882/40e91283-2803-402c-87fa-317e51149b8f" alt="python" width="40" height="40"/></a><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="norefferrer"><img src="https://wallpapercave.com/wp/wp4521293.png" alt="c" width="40" height="40"/></a><a href="https://www.blackmagicdesign.com/it/products/davinciresolve/" target="_blank" rel="norefferrer"><img src="https://github.com/astros3x/astros3x/assets/87500882/2c90ecf7-c4a1-48a7-a32f-96765b181bcb" alt="c" width="40" height="40"/></a></p>
 
 ## Current projects
 * [Astri](https://github.com/astros3x/Astri) - A usefull program with info sharing and tools.
