@@ -18,8 +18,7 @@ Designing/SMM services/Cheats/Modz/Methods/ecc. <img src="https://komarev.com/gh
 
 ## Current projects
 * [Astri](https://github.com/astros3x/Astri) - A usefull program with info sharing and tools.
-* [AstriVIP@AIO](https://github.com/astros3x/astrivip-aio) - All In One tool x astri@vip users only.
-* [Ddosser](https://github.com/CaptainBeluga/astri-ddosser)
+* [Astri@Hider](https://github.com/astros3x/astri-hider) - A tool to hide text messages in JPG files.
 ## Platforms
 
 <p align="left"><a href="https://github.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/></a><a href="https://www.instagram.com/astros3x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="40" height="40"/></a><a href="https://discord.gg/XnRjFmgPYz" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" width="40" height="40"/></a><a href="https://twitter.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" width="40" height="40"/></a></p>
