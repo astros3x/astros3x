@@ -33,3 +33,4 @@ Designing/SMM services/Cheats/Modz/Methods/ecc. <img src="https://komarev.com/gh
 ## Platforms
 
 <p align="left"><a href="https://github.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/></a><a href="https://www.instagram.com/astros3x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="40" height="40"/></a><a href="https://discord.gg/XnRjFmgPYz" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" width="40" height="40"/></a><a href="https://twitter.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" width="40" height="40"/></a></p>
+<img src="https://discord.c99.nl/widget/theme-2/825824076693372938.png"></img>
