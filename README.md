@@ -14,9 +14,6 @@
 
              discord.gg/astri | @astros3x | aka 2Loop | batch lover | design
 ```
- <img src="https://discord.c99.nl/widget/theme-2/825824076693372938.png"></img>
-
-</div>
 
 ## About
 I do these projects just for fun. Code sharing, toolz, leaks and more. <br> 
