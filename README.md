@@ -29,6 +29,8 @@ Designing/SMM services/Cheats/Modz/Methods/ecc. <img src="https://komarev.com/gh
 * [Astri](https://github.com/astros3x/Astri) - A usefull program with info sharing and tools.
 * [Astri@Hider](https://github.com/astros3x/astri-hider) - A tool to hide text messages in JPG files.
 
+<hr>
+
 <div align="center">
  <img src="https://discord.c99.nl/widget/theme-2/825824076693372938.png"></img>
 </div>
