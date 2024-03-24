@@ -15,6 +15,7 @@
              discord.gg/astri | @astros3x | aka 2Loop | batch lover | design
 ```
 
+
 ## About
 I do these projects just for fun. Code sharing, toolz, leaks and more. <br> 
 Designing/SMM services/Cheats/Modz/Methods/ecc. <img src="https://komarev.com/ghpvc/?username=astros3x&label=Profile%20views&color=000000&style=flat" alt="astros3x" />
@@ -27,9 +28,7 @@ Designing/SMM services/Cheats/Modz/Methods/ecc. <img src="https://komarev.com/gh
 ## Current projects
 * [Astri](https://github.com/astros3x/Astri) - A usefull program with info sharing and tools.
 * [Astri@Hider](https://github.com/astros3x/astri-hider) - A tool to hide text messages in JPG files.
-## Platforms
 
-<p align="left"><a href="https://github.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/></a><a href="https://www.instagram.com/astros3x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" width="40" height="40"/></a><a href="https://discord.gg/XnRjFmgPYz" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" width="40" height="40"/></a><a href="https://twitter.com/astros3x" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" width="40" height="40"/></a></p>
-<div>
+<div align="center">
  <img src="https://discord.c99.nl/widget/theme-2/825824076693372938.png"></img>
 </div>
