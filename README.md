@@ -10,16 +10,13 @@
 9888  9888    @8Wou 9%   .8888Lu=  .d888L .+   u8888cJ888    @8Wou 9%  :@88N   '8888N  .u./"888&   
 9888  9888  .888888P`    ^%888*    ^"8888*"     "*888*P"   .888888P`   *8888~  '8888F d888" Y888*" 
 "888*""888" `   ^"F        'Y"        "Y"         'Y"      `   ^"F     '*8"`   9888%  ` "Y   Y"    
- ^Y"   ^Y'                                                               `~===*%"`                 
-
-             discord.gg/astri | @astros3x | aka 2Loop | batch lover | design
+ ^Y"   ^Y'                                                               `~===*%"`
 ```
 
 
 ## About
-I do these projects just for fun. Code sharing, toolz, leaks and more. <br> 
-Designing/SMM services/Cheats/Modz/Methods/ecc. <img src="https://komarev.com/ghpvc/?username=astros3x&label=Profile%20views&color=000000&style=flat" alt="astros3x" />
-* Collaborating with [Beluga](https://github.com/CaptainBeluga)
+Aka 2Loop. Loves to make UI design and digital art. <img src="https://komarev.com/ghpvc/?username=astros3x&label=Profile%20views&color=000000&style=flat" alt="astros3x" />
+* I'm ollaborating with [Beluga](https://github.com/CaptainBeluga) :smirk:
 
 ## Languages and Tools
 
@@ -29,7 +26,7 @@ Designing/SMM services/Cheats/Modz/Methods/ecc. <img src="https://komarev.com/gh
 * [Astri](https://github.com/astros3x/Astri) - A usefull program with info sharing and tools.
 * [Astri@Hider](https://github.com/astros3x/astri-hider) - A tool to hide text messages in JPG files.
 
-<hr>
+-------
 
 <div align="center">
  <img src="https://discord.c99.nl/widget/theme-2/825824076693372938.png"></img>
