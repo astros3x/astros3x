@@ -15,7 +15,7 @@
 
 
 ## About
-Aka 2Loop. Loves to make UI design and digital art. <img src="https://komarev.com/ghpvc/?username=astros3x&label=Profile%20views&color=000000&style=flat" alt="astros3x" />
+Loves to make UI design and digital art. <img src="https://komarev.com/ghpvc/?username=astros3x&label=Profile%20views&color=000000&style=flat" alt="astros3x" />
 * I'm ollaborating with [Beluga](https://github.com/CaptainBeluga) :smirk:
 
 ## Languages and Tools
